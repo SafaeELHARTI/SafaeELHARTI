@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Safae
 
 ![](https://komarev.com/ghpvc/?username=SafaeELKHAOUI&color=blue)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SafaeELKHAOUI&layout=compact&theme=vision-friendly-dark)
-
 AI / ML Engineer building **end-to-end intelligent systems**, from data pipelines to model deployment.  
 Focused on **real-world applications** of AI (GenAI, XAI, spatio-temporal data).
 
@@ -55,11 +53,9 @@ Focused on **real-world applications** of AI (GenAI, XAI, spatio-temporal data).
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=SafaeELKHAOUI&show_icons=true&theme=vision-friendly-dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SafaeELKHAOUI&theme=vision-friendly-dark&hide_border=false&layout=compact&langs_count=8)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SafaeELKHAOUI&layout=compact&theme=vision-friendly-dark)
-
-![](https://github-readme-stats.vercel.app/api?username=SafaeELKHAOUI&show_icons=true&count_private=true&cache_seconds=1800)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SafaeELKHAOUI&theme=github_dark)
 
 ---
 
