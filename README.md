@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Safae
 
 ![](https://komarev.com/ghpvc/?username=SafaeELKHAOUI&color=blue)
+
+
 AI / ML Engineer building **end-to-end intelligent systems**, from data pipelines to model deployment.  
 Focused on **real-world applications** of AI (GenAI, XAI, spatio-temporal data).
 
