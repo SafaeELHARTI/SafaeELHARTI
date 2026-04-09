@@ -73,4 +73,4 @@ Opportunities in **AI / Machine Learning (industry or research)**
 
 ## 🌐 Links
 
-- [LinkedIn](https://linkedin.com/in/safa-el-khaoui) · [Medium](https://medium.com/@safae.11elkhaoui)
+- [LinkedIn](https://linkedin.com/in/safae-el-khaoui) · [Medium](https://medium.com/@safae.11elkhaoui)
