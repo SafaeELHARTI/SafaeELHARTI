@@ -55,9 +55,12 @@ Focused on **real-world applications** of AI (GenAI, XAI, spatio-temporal data).
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SafaeELKHAOUI&theme=vision-friendly-dark&hide_border=false&layout=compact&langs_count=8)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SafaeELKHAOUI&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SafaeELHARTI&theme=vision-friendly-dark&hide_border=false&layout=compact&langs_count=8)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SafaeELHARTI&theme=github_dark)
+
+![GitHub streak](https://streak-stats.demolab.com/?user=SafaeELHARTI&theme=dark)
 
 ---
 
